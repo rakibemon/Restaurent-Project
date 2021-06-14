@@ -1,0 +1,27 @@
+@media only screen and (max-width: 576px) {
+
+.about-img{
+height: 200px;
+width: 200px;
+margin: auto;
+}
+
+.home-img{
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col-sml{
+    max-width: 20rem;
+    margin-top: 2rem !important;
+    margin: auto;
+}
+.contact-col-sm{
+    text-align: center;
+}
+
+}
